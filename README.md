@@ -1,0 +1,10 @@
+- 👋 I'm Denis a retired electronic technologist. I used to develop hardware and software for seismic applications in mines. 
+- 👀 Now I do similar work but for own projects. Mainly home automation related. I work in C but lately I'm dabbling with MicroPython. 
+- 🌱 I’ve developed my own device to control things around the house which I call a HomeStat. I also have a more ambitious device
+- to control a wood stove called a StoveGuard. Its a bigger challenge but sitting in a rocker while watching the stove keep the
+- flames dancing nicely without choking or burning too intense is very rewarding.
+- 💞️ I’m not looking to collaborate as my development would require sharing custom hardware. I'm looking to commercialize anything
+- as there are serious safety issues around wood stove control and my insurance company were very clear about it.
+- 📫 I'm @ denis340@gmail.com and I'd welcome interactions.
+- Finally I want to thank anyone that I have cloned code from to advance my cause. I'm no expert so getting ahead by learning from others is
+- fine. Thanks... Denis
